@@ -1,0 +1,18 @@
+Qty,Description,Distributor,Link,Price
+1,Raspberry Pi 3 Model B,Amazon,https://www.amazon.com/dp/B01CD5VC92,$36.95
+1,Arduino Mega 2560 ,Arduino,https://store.arduino.cc/usa/arduino-mega-2560-rev3,$38.50
+,,,,
+1,Whitebox Labs Tentacle Shield,Atlas Scientific,https://www.atlas-scientific.com/product_pages/components/tentacle-shield.html,$115.00
+1 (+/-),Spear Tip pH Probe (soil),Atlas Scientific,https://www.atlas-scientific.com/product_pages/probes/stph_probe.html,$110.00
+1 (+/-),pH Probe (hydroponic),Atlas Scientific,https://www.atlas-scientific.com/product_pages/probes/ph_probe.html,$72.00
+1 (+),EZO pH Circuit,Atlas Scientific,https://www.atlas-scientific.com/product_pages/circuits/ezo_ph.html,$38.00
+1,Dissolved Oxygen Probe,Atlas Scientific,https://www.atlas-scientific.com/product_pages/probes/do_probe.html,$198.00
+1,EZO Dissolved Oxygen Circuit,Atlas Scientific,https://www.atlas-scientific.com/product_pages/circuits/ezo_do.html,$44.00
+1,Conductivity Probe,Atlas Scientific,https://www.atlas-scientific.com/product_pages/probes/ec_k1-0.html,$126.00
+1,EZO Conductivity Circuit,Atlas Scientific,https://www.atlas-scientific.com/product_pages/circuits/ezo_ec.html,$58.00
+1,PT-1000 Temperature Probe,Atlas Scientific,https://www.atlas-scientific.com/product_pages/probes/pt1000.html,$18.00
+1,EZO RTD Temperature Circuit,Atlas Scientific,https://www.atlas-scientific.com/product_pages/circuits/ezo_rtd.html,$26.00
+4 (+),3 Meter BNC Extension Cord,,https://www.atlas-scientific.com/product_pages/components/bnc_10.html,$15.00
+,,,,
+x,EZO-PMP Embedded Dosing Pump,Atlas Scientific,https://www.atlas-scientific.com/product_pages/peristaltic/ezo-pmp.html,$85.00
+x,EZO-PMP Tubing Kit,Atlas Scientific,https://www.atlas-scientific.com/product_pages/peristaltic/pmptubekit.html,$13.00
